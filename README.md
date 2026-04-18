@@ -1,5 +1,6 @@
 # TAPRX-888
 A simplified SDR, based on the RX-888:
+Please see the files named "TAPRX-888....."
 
 Proof-of-concept design
 
