@@ -1,4 +1,4 @@
-# New-888
+# TAPRX-888
 A simplified SDR, based on the RX-888:
 
 Proof-of-concept design
